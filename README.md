@@ -1,1 +1,1 @@
-# Qucik-project
+# Quick-Project
